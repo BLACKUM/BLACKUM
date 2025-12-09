@@ -1,4 +1,4 @@
 ## Hello?
-### -👋Im studient, working on team projects.
-### -❤️I love sql and c#.
-### -🤝Want to collaborate with me or just want to contact me? dm me in telegram
+### -👋Im a studient, working on some personal and team projects.
+### -❤️I love sql, c# and python.
+### -🤝Want to collaborate with me or just want to contact me? dm me in telegram 
