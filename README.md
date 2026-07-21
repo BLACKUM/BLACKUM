@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BLACKUM&show_icons=true&theme=dark&hide_border=true" /><br />
+  <img src="https://github-stats-extended.vercel.app/api?username=BLACKUM&show_icons=true&theme=dark&hide_border=true" /><br />
   <img src="https://streak-stats.demolab.com/?user=BLACKUM&theme=dark&hide_border=true" />
 </p>
 
